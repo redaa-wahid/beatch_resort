@@ -1,0 +1,11 @@
+$color-btn : #30bdff;
+.btn{
+    background-color: $color-btn;
+    color: white;
+    width: 250px;
+    cursor: pointer;
+    outline: none;
+}
+.btn:hover{
+    background-color: #e4e1e159;
+}

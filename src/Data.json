@@ -1,0 +1,129 @@
+[
+    {
+        "id":1,
+        "title": "product 1",
+        "imgurl": "./images/room1.jpg",
+        "imgsroom": [
+            {"url": "./images/room3.jpg"}
+        ],
+        "desc":"lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temptore ex ea comodo lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temptore ex ea comodolorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temptore ex ea comodolorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temptore ex ea comodo",
+        "price":130,
+        "capacity": 1,
+        "name":"single",
+        "slug": "single-economy",
+        "peste": true,
+        "breakfast": true,
+        "featured": false
+    },
+    {
+        "id":2,
+        "imgurl": "./images/room2.jpg",
+        "imgsroom": [
+            {"url": "./images/room1.jpg"}
+        ],
+        "desc":"lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temptore ex ea comodo lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temptore ex ea comodolorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temptore ex ea comodolorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temptore ex ea comodo",
+        "price":300,
+        "size":200,
+        "name":"double",
+        "slug": "single-economy",
+        "peste": false,
+        "breakfast": false,
+        "featured": false
+    },
+    {
+        "id":3,
+        "imgurl": "./images/room3.jpg",
+        "imgsroom": [
+            {"url": "./images/room2.jpg"}
+        ],
+        "desc":"lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temptore ex ea comodo lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temptore ex ea comodolorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temptore ex ea comodolorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temptore ex ea comodo",
+        "price":200,
+        "size":200,
+        "name":"double",
+        "slug": "single-economy",
+        "peste": false,
+        "breakfast": false,
+        "featured": false
+    },
+    {
+        "id":4,
+        "title": "product 4",
+        "imgurl": "./images/room4.jpg",
+        "imgsroom": [
+            {"url": "./images/room2.jpg"}
+        ],
+        "desc":"lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temptore ex ea comodo lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temptore ex ea comodolorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temptore ex ea comodolorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temptore ex ea comodo",
+        "price":30,
+        "size":200,
+        "name":"single",
+        "slug": "single-economy",
+        "peste": true,
+        "breakfast": true,
+        "featured": true
+    },
+    {
+        "id":5,
+        "title": "product 5",
+        "imgurl": "./images/room5.jpg",
+        "imgsroom": [
+            {"url": "./images/room4.jpg"}
+        ],
+        "desc":"lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temptore ex ea comodo lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temptore ex ea comodolorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temptore ex ea comodolorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temptore ex ea comodo",
+        "price":30,
+        "size":200,
+        "name":"family",
+        "slug": "single-economy",
+        "peste": false,
+        "breakfast": false,
+        "featured": true
+    },
+    {
+        "id":6,
+        "title": "product 6",
+        "imgurl": "./images/room1.jpg",
+        "imgsroom": [
+            {"url": "./images/room3.jpg"}
+        ],
+        "desc":"lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temptore ex ea comodo lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temptore ex ea comodolorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temptore ex ea comodolorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temptore ex ea comodo",
+        "price":30,
+        "size":200,
+        "name":"single",
+        "slug": "single-economy",
+        "peste": false,
+        "breakfast": false,
+        "featured": true
+    },
+    {
+        "id":7,
+        "title": "product 7",
+        "imgurl": "./images/room2.jpg",
+        "imgsroom": [
+            {"url": "./images/room4.jpg"}
+        ],
+        "desc":"lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temptore ex ea comodo lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temptore ex ea comodolorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temptore ex ea comodolorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temptore ex ea comodo",
+        "price":30,
+        "size":200,
+        "name":"single",
+        "slug": "single-economy",
+        "peste": false,
+        "breakfast": false,
+        "featured": true
+    },
+    {
+        "id":8,
+        "title": "product 8",
+        "imgurl": "./images/room8.jpg",
+        "imgsroom": [
+            {"url": "./images/room5.jpg"}
+        ],
+        "desc":"lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temptore ex ea comodo lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temptore ex ea comodolorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temptore ex ea comodolorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temptore ex ea comodo",
+        "price":30,
+        "size":200,
+        "name":"family",
+        "slug": "single-economy",
+        "peste": true,
+        "breakfast": true,
+        "featured": true
+    }
+
+]
